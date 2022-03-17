@@ -337,3 +337,8 @@ border: none;
   text-align: center;
   padding: 20px 0 20px 0;
 }
+
+
+.btn-top:hover{
+  background-color: gold;
+}
